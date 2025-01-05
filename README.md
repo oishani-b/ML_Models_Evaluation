@@ -1,2 +1,2 @@
-# ML_Models_Evaluation
+# Comparing Supervised Algorithms on the Metric of Accuracy Across Datasets and Training and Test Splits
 This report presents an evaluation of five different classifier algorithms, Logistic Regression, KNN, Random Forest, Decision Tree, and SVM, across 4 datasets. The metric used for comparison is test accuracy and cross validation means accuracy. Comparisons across algorithms, train and test splits, and datasets and problems are presented.
